@@ -1,0 +1,14 @@
+K-Means Clustering, 
+Hierarchical Clustering, 
+DBSCAN, 
+Gaussian Mixture Models
+
+Bagging, 
+Boosting, 
+Stacking, 
+Random Forest, 
+Gradient Boosting
+
+L1 Regularization, 
+L2 Regularization, 
+ElasticNet Regularization
